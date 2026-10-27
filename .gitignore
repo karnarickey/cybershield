@@ -17,3 +17,4 @@ coverage/
 evidence/
 uploads/
 .DS_Store
+*.zip
